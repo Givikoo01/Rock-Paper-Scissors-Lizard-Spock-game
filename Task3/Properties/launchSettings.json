@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task3": {
+      "commandName": "Project",
+      "commandLineArgs": "rock spock paper lizard scissors\r\n"
+    }
+  }
+}
